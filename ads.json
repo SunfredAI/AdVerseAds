@@ -7,6 +7,9 @@
       "url": "https://discord.com/invite/PuCxk5PnzU"
     }
   ],
+  "downloads": [
+    "https://github.com/gorciu-official/JUAMP/releases/latest"
+  ]
   "excluded_pages": [
     "github.com",
     "youtube.com"
