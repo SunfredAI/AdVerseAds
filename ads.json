@@ -2,13 +2,20 @@
   "normal_ads": [
     {
       "title": "AdVerse",
-      "slogan": "Get tokens from inescapable ads.",
-      "description": "Fuck your ad-blocker. Get tokens from watching useless ads.",
+      "slogan": "Watch inescapable ads (for fun).",
+      "description": "Fuck your ad-blocker. Imagine a web, where everything has ads.",
       "url": "https://discord.com/invite/PuCxk5PnzU"
     }
   ],
   "downloads": [
     "https://github.com/gorciu-official/JUAMP/releases/latest"
+  ],
+  "push": [
+    {
+      "title": "AdVerse",
+      "description": "Fuck your ad-blocker. Imagine a web, where everything has ads.",
+      "target": "https://discord.com/invite/PuCxk5PnzU"
+    }
   ],
   "excluded_pages": [
     "github.com",
